@@ -88,7 +88,8 @@ export default {
   name: "app",
   data() {
     return {
-      url_base: "https://hasse.br3gott.pw",
+      //DOMAIN here vvv
+      url_base: "",
       playlist: [],
       status: [],
       query: "",
