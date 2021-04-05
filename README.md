@@ -1,4 +1,4 @@
-# vue-test
+# hasse_bot_vue
 
 ## Project setup
 ```
